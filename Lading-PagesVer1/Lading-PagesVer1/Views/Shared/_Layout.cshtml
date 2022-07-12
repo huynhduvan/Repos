@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    @*<style data-next-hide-fouc="true">
+          body {
+            display: none
+          }
+    </style>
+
+    <noscript data-next-hide-fouc="true">
+        <style>
+            body {
+              display: block
+            }
+          </style>
+    </noscript>*@
+    
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - Lading_PagesVer1</title>
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <meta name="next-head-count" content="5"/>
+    <noscript data-n-css=""></noscript>
+
+    @await RenderSectionAsync("HeadBlock", required: false)
+    <noscript id="__next_css__DO_NOT_USE__"></noscript>
+</head>
+
+<body>
+@RenderBody()
+<script src="/_next/static/chunks/react-refresh.js?ts=1657542603629"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "POjqMwmIbf3kMjsJSd3bfK6xlGdGYosuIoqNKmqBSks=",
+  "Hash": "o8WdBlYpGFq7Vf9X3jX0YK1vf1UTTCyR7rtJLKMDXOo=",
   "Source": "Lading-PagesVer1",
   "BasePath": "_content/Lading-PagesVer1",
   "Mode": "Default",
@@ -527,6 +527,23 @@
       "OriginalItemSpec": "wwwroot\\_next\\cache\\webpack\\server-development\\index.pack.old"
     },
     {
+      "Identity": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\_next\\package-lock.json",
+      "SourceId": "Lading-PagesVer1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\",
+      "BasePath": "_content/Lading-PagesVer1",
+      "RelativePath": "_next/package-lock.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\_next\\package-lock.json"
+    },
+    {
       "Identity": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\_next\\package.json",
       "SourceId": "Lading-PagesVer1",
       "SourceType": "Discovered",
@@ -1001,23 +1018,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Group Members.png"
-    },
-    {
-      "Identity": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\js\\Feature.js",
-      "SourceId": "Lading-PagesVer1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\",
-      "BasePath": "_content/Lading-PagesVer1",
-      "RelativePath": "js/Feature.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Feature.js"
     },
     {
       "Identity": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\js\\site.js",

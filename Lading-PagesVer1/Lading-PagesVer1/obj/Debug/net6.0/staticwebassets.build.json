@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o8WdBlYpGFq7Vf9X3jX0YK1vf1UTTCyR7rtJLKMDXOo=",
+  "Hash": "XRArF1+La5uvXz6ZFIl6ULdEMY/uZMxnApBGrpvI6d0=",
   "Source": "Lading-PagesVer1",
   "BasePath": "_content/Lading-PagesVer1",
   "Mode": "Default",
@@ -525,23 +525,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\_next\\cache\\webpack\\server-development\\index.pack.old"
-    },
-    {
-      "Identity": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\_next\\package-lock.json",
-      "SourceId": "Lading-PagesVer1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\",
-      "BasePath": "_content/Lading-PagesVer1",
-      "RelativePath": "_next/package-lock.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\_next\\package-lock.json"
     },
     {
       "Identity": "D:\\Repos\\Lading-PagesVer1\\Lading-PagesVer1\\wwwroot\\_next\\package.json",
